@@ -123,12 +123,6 @@ First install OpenCV:
 
 We provide several routines to import camera data into opencv. See the samples directory on github for details.
 
-
-##  Compile drivers and dtb from source code
-- RK356x
-
-https://github.com/veyeimaging/rk35xx_radxa/tree/main/linux/drivers
-
 ## i2c script for parameter configuration
 
 Because of the high degree of freedom of our camera parameters, we do not use V4L2 parameters to control, but use scripts to configure parameters.
@@ -139,6 +133,11 @@ using -b option to identify which bus you want to use.
 
 - VEYE series
 Video Control Toolkits Manual ：[VEYE-MIPI-327 I2C](http://wiki.veye.cc/index.php/VEYE-MIPI-290/327_i2c/)
+
+##  Compile drivers and dtb from source code
+- RK356x
+
+https://github.com/veyeimaging/rk35xx_radxa/tree/main/linux/drivers
 
 ## References
 
