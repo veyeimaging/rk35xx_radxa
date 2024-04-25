@@ -39,7 +39,7 @@ This section describes how to update the RK35xx system to support our camera mod
 We provide a deb installation package that can be installed directly.
 
 ### Burn Radxa standard system
-Refer to the [Radxa documentation](https://wiki.t-firefly.com/en/ROC-RK3566-PC/01-bootmode.html) to burn in a standard system.
+Refer to the Radxa documentation to burn in a standard system.
 
 ### Using prebuilt Image and dtb file
 Using the compiled debain installation package
