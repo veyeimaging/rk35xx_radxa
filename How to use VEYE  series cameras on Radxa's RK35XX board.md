@@ -127,8 +127,7 @@ We provide several routines to import camera data into opencv. See the samples d
 ##  Compile drivers and dtb from source code
 - RK356x
 
-[https://github.com/veyeimaging/rk35xx_rodxa/tree/main/linux/drivers/rk356x](https://github.com/veyeimaging/rk35xx_rodxa/tree/main/linux/drivers/rk356x)
-
+https://github.com/veyeimaging/rk35xx_radxa/tree/main/linux/drivers
 
 ## i2c script for parameter configuration
 
