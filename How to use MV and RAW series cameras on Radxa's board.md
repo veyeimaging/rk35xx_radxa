@@ -416,6 +416,11 @@ We provide shell scripts to configure the parameters.
 
 [mv_mipi_i2c.sh user guide](http://wiki.veye.cc/index.php/Mv_mipi_i2c.sh_user_guide)
 
+##  Compile drivers and dtb from source code
+- RK356x
+
+https://github.com/veyeimaging/rk35xx_radxa/tree/main/linux/drivers
+
 ## References
 
 - Radxa Zero 3W Manual
