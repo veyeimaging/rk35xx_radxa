@@ -49,7 +49,7 @@ The two are connected using 0.5 mm pitch*pin FFC cable with opposite-side contac
 ![Radxa_Zero_3W_connect_to_RAW_series_camera_2](resources/Radxa_Zero_3W_connect_to_RAW_series_camera_2.jpg)
 
 ## Introduction to github repositories
-
+https://github.com/veyeimaging/rk35xx_veye_bsp
 https://github.com/veyeimaging/rk35xx_radxa
 
 includes：

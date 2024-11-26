@@ -26,6 +26,8 @@ Both use a 15-to-22-pin FFC cable for connection, ensuring that the silver conta
 ![VEYE camera connect to Radxa ZERO 3W](resources/VEYE_camera_connect_to_Radxa_ZERO_3W.jpg)
 
 ## Introduction to github repositories
+https://github.com/veyeimaging/rk35xx_veye_bsp
+https://github.com/veyeimaging/rk35xx_radxa
 includes：
 - driver source code
 - i2c toolkits
