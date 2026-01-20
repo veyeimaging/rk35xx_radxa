@@ -9,7 +9,8 @@
 
 #include "rk3566-radxa-zero3.dtsi"
 //#include "rk3566-radxa-zero3-veyecam2m.dtsi"
-#include "rk3566-radxa-zero3-veyemvcam.dtsi"
+//#include "rk3566-radxa-zero3-veyemvcam.dtsi"
+#include "rk3566-radxa-zero3-veyegxcam.dtsi"
 
 / {
 	model = "Radxa ZERO 3";
