@@ -23,7 +23,7 @@ The two are connected using 0.5 mm pitch*22pin FFC cable with opposite-side cont
 ![Radxa Zero 3W/3E connect to GX series camera](resources/gx_to_radxa_resized.png)
 
 ## Introduction to github repositories
-https://github.com/veyeimaging/rk35xx_orangepi
+https://github.com/veyeimaging/rk35xx_radxa/
 
 includes:
 - driver source code
