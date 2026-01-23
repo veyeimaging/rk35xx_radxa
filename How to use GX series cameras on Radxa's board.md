@@ -44,16 +44,16 @@ The installation package we are currently releasing is based on [this image vers
 ### Using prebuilt Image and dtb file
 Using the compiled debain installation package
 On the RK35xx board,
-Download the latest rk356x_radxa_zero3w.tar.gz or rk356x_radxa_zero3e.tar.gz from
+Download the latest rk356x_radxa_zero3w_gxmcam.tar.gz from
 [releases](https://github.com/veyeimaging/rk35xx_radxa/releases/)
 ```
-tar -xavf rk356x_radxa_zero3w.tar.gz
+tar -xavf rk356x_radxa_zero3w_gxmcam.tar.gz
 
-cd rk356x_radxa_zero3w/released_images/mvcam
+cd rk356x_radxa_zero3w_gxmcam
 
-sudo dpkg -i linux-headers-5.10.160-36-rk356x_5.10.160-36_arm64_mvcam.deb
+sudo dpkg -i linux-headers-5.10.160-39-rk356x_5.10.160-39_arm64-gxcam.deb
 
-sudo dpkg -i linux-image-5.10.160-36-rk356x_5.10.160-36_arm64_mvcam.deb
+sudo dpkg -i linux-image-5.10.160-39-rk356x_5.10.160-39_arm64-gxcam.deb
 
 sudo reboot
 ```
