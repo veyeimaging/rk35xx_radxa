@@ -45,7 +45,7 @@ The installation package we are currently releasing is based on [this image vers
 Using the compiled debain installation package
 On the RK35xx board,
 Download the latest rk356x_radxa_zero3w.tar.gz or rk356x_radxa_zero3e.tar.gz from
-[https://github.com/veyeimaging/rk35xx_radxa/releases/](https://github.com/veyeimaging/rk35xx_radxa/releases/)
+[releases](https://github.com/veyeimaging/rk35xx_radxa/releases/)
 ```
 tar -xavf rk356x_radxa_zero3w.tar.gz
 
