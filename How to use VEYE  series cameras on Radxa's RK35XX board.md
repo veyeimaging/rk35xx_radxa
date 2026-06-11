@@ -116,20 +116,20 @@ cd yavta;make
 ```
 
 ### gstreamer
-We provide several gstreamer routines that implement the preview, capture, and video recording functions. See the samples directory on github for details.
+We provide several gstreamer routines that implement the preview, capture, and video recording functions. See the [samples](https://github.com/veyeimaging/rk35xx_veye_bsp/tree/main/samples) directory on github for details.
 
 ### Import to OpenCV
 
 First install OpenCV:
 `sudo apt install python3-opencv`
 
-We provide several routines to import camera data into opencv. See the samples directory on github for details.
+We provide several routines to import camera data into opencv. See the [samples](https://github.com/veyeimaging/rk35xx_veye_bsp/tree/main/samples) directory on github for details.
 
 ## i2c script for parameter configuration
 
 Because of the high degree of freedom of our camera parameters, we do not use V4L2 parameters to control, but use scripts to configure parameters.
 
-[https://github.com/veyeimaging/rk356x_rodxa/tree/main/i2c_cmd](https://github.com/veyeimaging/rk356x_rodxa/tree/main/i2c_cmd)
+https://github.com/veyeimaging/rk35xx_veye_bsp/tree/main/i2c_cmd
 
 using -b option to identify which bus you want to use.
 
