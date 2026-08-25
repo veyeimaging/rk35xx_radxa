@@ -21,6 +21,7 @@ We provide drivers for the Linux operating system (using Radxa OS Debainas an ex
 The two are connected using 0.5 mm pitch*22pin FFC cable with opposite-side contacts. The cable must be inserted with the silver contacts facing outside.
 
 ![Radxa Zero 3W/3E connect to GX series camera](resources/gx_to_radxa_resized.png)
+![Radxa Zero 3W/3E connect to GXC series camera](resources/gxc_to_radxa_resized.png)
 
 ## Introduction to github repositories
 https://github.com/veyeimaging/rk35xx_radxa/
